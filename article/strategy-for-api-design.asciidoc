@@ -3,10 +3,14 @@
 :email: mca@amundsen.com
 
 == Introduction
-(text here)
 
 === Common HTTP API Guidance
-(text here)
+The typical guidance for designing Web APIs is usually advice on _implementation_ rather than design.
+The common approach is to focus on a handful of HTTP-specific details that result in an API that is
+generally intuitive to developers and follow best practice for using the HTTP protocol and related
+sepcifications.
+
+In short summary, common guidance is as follows:
 
 == An Alternative Approach
 (text here)
