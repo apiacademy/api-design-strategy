@@ -1,0 +1,58 @@
+= A Strategy for Designing Web APIs
+:author: Mike Amundsen
+:email: mca@amundsen.com
+
+== Introduction
+(text here)
+
+=== Common HTTP API Guidance
+(text here)
+
+== An Alternative Approach
+(text here)
+
+=== List Semantic Descriptors
+(text here)
+
+=== Draw a State Diagram
+(text here)
+
+=== Reconcile Names
+(text here)
+
+=== Write a Profile
+(text here)
+
+=== Select a Media Type
+(text here)
+
+=== Implement the Interface
+(text here)
+
+=== Publish Your API
+(text here)
+
+== Additional Advice
+(text here)
+
+=== Resources are an Implementation Detail
+(text here)
+
+=== Don't Fall into the Collection Trap
+(text here)
+
+=== Don't Start with the Representation Format
+(text here)
+
+=== URL Design Doesn't Matter
+(text here)
+
+=== Standard Names are Probably Better than Yours
+(text here)
+
+=== Don't Keep the Hypermedia All in Once Place
+(text here)
+
+== Summary
+(text here)
+
